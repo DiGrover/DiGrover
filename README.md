@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A backend developer from Ukraine</h3>
+<h3 align="center">A backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digrover&label=Profile%20views&color=0e75b6&style=flat" alt="digrover" /> </p>
 
@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **c++, debuggers, Assembly**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
