@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SteamBot](*private*)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **С++ WDK**
 
 - 💬 Ask me about **c++, debuggers, Assembly**
 
